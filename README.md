@@ -36,7 +36,7 @@ public/                      # Archivos estáticos como imágenes e íconos
 
 1. Clona el repositorio:
   
-   git clone [\[url\]](https://github.com/lalailamas/chitafactoring.git)
+   git clone (https://github.com/lalailamas/chita.git)
 
 2. Instala las dependencias: 
 
