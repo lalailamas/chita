@@ -49,4 +49,4 @@ public/                      # Archivos estáticos como imágenes e íconos
 
 ## 🌐 Live Demo
 
-[Deploy here](https://chitafactoring.vercel.app/)
+[Deploy here](https://chita-73ugi9ntw-lalailamas-projects.vercel.app/)
