@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import { useState } from "react";
 import Button from "../components/FooterButtons";
 import CloseButton from "../components/CloseButton";
